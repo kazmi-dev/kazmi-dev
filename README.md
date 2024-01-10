@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kazmi-dev
+- 👋 Hi, I’m Syed Zain Kazmi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JetPack Compose
 - 💞️ I’m looking to collaborate on MultiPlatform Projects
