@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Syed Zain Kazmi
+- 👋 Hi, I’m *Syed Turaab Kazmi*
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JetPack Compose
 - 💞️ I’m looking to collaborate on MultiPlatform Projects
-- 📫 How to reach me syedzainkazmi78@gmail.com
+- 📫 How to reach me *syedzainkazmi78@gmail.com*
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm so funny
 
