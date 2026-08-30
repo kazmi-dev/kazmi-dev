@@ -1,10 +1,10 @@
-- 👋 Hi, I’m *Syed Turaab Kazmi*
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JetPack Compose
-- 💞️ I’m looking to collaborate on MultiPlatform Projects
-- 📫 How to reach me *syedzainkazmi78@gmail.com*
+- 👋 Hi, I’m **Kazmi-dev** (Syed Turaab Kazmi)
+- 👀 I’m a Full Stack Developer specializing in native and multiplatform mobile applications (Android + iOS).
+- 🌱 I’m currently working on multiplatform apps using Kotlin Multiplatform (KMP) and Jetpack Compose.
+- 💞️ I’m looking to collaborate on scalable cross-platform projects and mobile software startups.
+- 📫 How to reach me: **syedzainkazmi78@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm so funny
+- ⚡ Fun fact: I'm incredibly funny—mostly because Errors makes me laugh!
 
 <!---
 kazmi-dev/kazmi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
