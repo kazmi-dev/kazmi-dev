@@ -5,6 +5,7 @@
 - 📫 How to reach me: **syedzainkazmi78@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm incredibly funny—mostly because Errors makes me laugh!
+- My portfolio: **https://kazmi-dev.github.io/portfolio/**
 
 <!---
 kazmi-dev/kazmi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
